@@ -5,8 +5,9 @@ Created on Sun Sep  1 19:43:01 2024
 
 @author: Gabriele Lovicu
 
-Reference, see: Simone Magaletti et al 2024 New J. Phys. 26 023020, DOI 10.1088/1367-2630/ad20b0
 """
+
+#Reference, see: Simone Magaletti et al 2024 New J. Phys. 26 023020, DOI 10.1088/1367-2630/ad20b0
 
 get_ipython().magic('reset -sf')
 
